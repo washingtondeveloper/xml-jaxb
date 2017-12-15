@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoa>
+    <email>fernando@fernando.com</email>
+    <idade>19</idade>
+    <nome>Fernando</nome>
+    <profissao>Pedreiro</profissao>
+</pessoa>
